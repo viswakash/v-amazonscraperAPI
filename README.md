@@ -9,4 +9,4 @@
 
 ## Tech
 - [node.js] - evented I/O for the backend
-- [Express] - fast node.js network app framework [@tjholowaychuk]
+- [Express] - fast node.js network app framework .
